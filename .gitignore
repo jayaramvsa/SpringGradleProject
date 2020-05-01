@@ -30,3 +30,6 @@ out/
 
 ### VS Code ###
 .vscode/
+
+###Ignore jar file##
+*.jar
