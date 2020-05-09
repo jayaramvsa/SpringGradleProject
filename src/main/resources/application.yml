@@ -4,4 +4,11 @@ spring:
     discovery:
       enabled: false
 
+#logging levels
+logging:
+  level:
+    com.jay.spring: DEBUG
+
+
+
 

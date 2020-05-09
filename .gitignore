@@ -1,6 +1,8 @@
 HELP.md
 .gradle
-build/
+*/build/
+*/bin/
+*/target/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
@@ -19,6 +21,9 @@ build/
 *.iws
 *.iml
 *.ipr
+*.log
+*.jar
+*/generatedsources/
 out/
 
 ### NetBeans ###
@@ -32,4 +37,4 @@ out/
 .vscode/
 
 ###Ignore jar file##
-*.jar
+classes/
