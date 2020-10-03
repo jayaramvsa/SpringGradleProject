@@ -5,11 +5,12 @@
       <profile name="Gradle Imported" enabled="true">
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-configuration-processor/2.2.7.BUILD-SNAPSHOT/592254558112980d8964b5bd236bea98be8d4ac7/spring-boot-configuration-processor-2.2.7.BUILD-SNAPSHOT.jar" />
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.12/48e4e5d60309ebd833bc528dcf77668eab3cd72c/lombok-1.18.12.jar" />
-          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-configuration-processor/2.2.7.BUILD-SNAPSHOT/13542708d1cecd37e189dd7f4824b8601c59ce20/spring-boot-configuration-processor-2.2.7.BUILD-SNAPSHOT.jar" />
         </processorPath>
         <module name="SpringGradleProject.main" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="1.8" />
   </component>
 </project>

@@ -1,7 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: org.springframework.boot.loader.JarLauncher
-Start-Class: com.jay.spring.SpringGradleApplication
-Spring-Boot-Version: 2.2.7.BUILD-SNAPSHOT
-Spring-Boot-Classes: BOOT-INF/classes/
-Spring-Boot-Lib: BOOT-INF/lib/
-
