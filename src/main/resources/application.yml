@@ -3,5 +3,15 @@ spring:
   cloud:
     discovery:
       enabled: false
+#logging levels
+logging:
+  level:
+    com.jay.spring: DEBUG
+
+h2:
+  console:
+    enabled: true
+
+
 
 
